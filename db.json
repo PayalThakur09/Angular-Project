@@ -1,0 +1,65 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Hotel Rangoli",
+      "email": "rangoli@gmail.com",
+      "mobile": 9787098730,
+      "address": "Amravati",
+      "services": "Indian Food"
+    },
+    {
+      "id": 2,
+      "name": "Woods Restaurant",
+      "email": "woods@gmai.com",
+      "mobile": 8909876546,
+      "address": "Amravti-Nagpur Highway",
+      "services": "FastFood "
+    },
+    {
+      "id": 3,
+      "name": "Fun & Food",
+      "email": "funfood@gmail.com",
+      "mobile": 9878234532,
+      "address": "Nagpur",
+      "services": "Snacks"
+    },
+    {
+      "id": 4,
+      "name": "Manbhavan Restaurant",
+      "email": "manbhavan@gmail.com",
+      "mobile": 9765674532,
+      "address": "Amravti,Nagpur",
+      "services": "Rajsthani Food"
+    },
+    {
+      "id": 5,
+      "name": "Rock&Roll",
+      "email": "roolrock@gmail.com",
+      "mobile": 8976456723,
+      "address": "Nagpur ",
+      "services": "Chinees Food"
+    },
+    {
+      "id": 6,
+      "name": "Manbhari Bakery",
+      "email": "manbhri@gmail.com",
+      "mobile": 8765786795,
+      "address": "Nagpur, Amravati ",
+      "services": "Bakery Product"
+    }
+  ],
+  "comments": [],
+  "signup": [
+    {
+      "name": "payal Thakur",
+      "email": "payalmsd@gmail.com",
+      "mobile": 8975257709,
+      "password": "payalt",
+      "id": 6
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
